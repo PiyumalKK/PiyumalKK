@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center" style="margin-top: 0;">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=A+passionate+Computer+Engineer;A+passionate+Web+Developer;A+passionate+Graphic+Designer;A+passionate+UI%2FUX+Designer;A+passionate+Freelancer">
   </a>
 </p>
