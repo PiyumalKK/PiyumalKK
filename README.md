@@ -15,7 +15,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
-- :school: Final Year `Computer Engineering` undergraduate at [Faculty of Engineering, University of Ruhuna](https://www.eng.ruh.ac.lk/) — CGPA: **3.52**
+- :school: Final Year `Computer Engineering` undergraduate at [Faculty of Engineering, University of Ruhuna](https://www.eng.ruh.ac.lk/)
 - :trophy: **Microsoft Certified: Azure Administrator Associate (AZ-104)** & **Azure Fundamentals (AZ-900)**
 - :cloud: Passionate about `Cloud Engineering`, `DevOps`, `Platform Engineering`, `AI/ML`, and `Microservices Architecture`
 - :hammer_and_wrench: Building scalable, cloud-native systems with full IaC & DevSecOps pipelines
