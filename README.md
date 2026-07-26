@@ -5,7 +5,7 @@
 
 <p align="center" style="margin-top: 0;">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Final+Year+Computer+Engineering+Undergraduate;Azure+Certified+%7C+AZ-900+%26+AZ-104;Multi-Cloud+%26+DevOps+Engineer;AI%2FML+%26+Platform+Engineering;Graphic+%26+UI%2FUX+Designer">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=700&height=100&lines=DevOps+Engineer+%7C+Cloud+%26+Multi-Cloud+Engineer;Azure+Certified%3A+AZ-104+%7C+AI-103+%7C+AI-102+%7C+AZ-900;Software+Engineer+%7C+Agentic+AI+Solutions;Building+Multi-Cloud%2C+Self-Healing+Infrastructure;Graphic+%26+UI%2FUX+Designer">
   </a>
 </p>
 
@@ -16,13 +16,15 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
 - :school: Final Year `Computer Engineering` undergraduate at [Faculty of Engineering, University of Ruhuna](https://www.eng.ruh.ac.lk/)
-- :trophy: **Microsoft Certified: Azure Administrator Associate (AZ-104)** & **Azure Fundamentals (AZ-900)**
-- :cloud: Passionate about `Cloud Engineering`, `DevOps`, `Platform Engineering`, `AI/ML`, and `Microservices Architecture`
-- :hammer_and_wrench: Building scalable, cloud-native systems with full IaC & DevSecOps pipelines
+- :trophy: **4x Microsoft Certified** — AZ-104, AI-103, AI-102, AZ-900 — and pursuing **AWS Solutions Architect Associate (SAA-C03)**
+- :cloud: Passionate about `Cloud Engineering`, `DevOps`, `Platform Engineering`, `Agentic AI`, and `Microservices Architecture`
+- :hammer_and_wrench: Building scalable, cloud-native systems with full IaC & DevSecOps pipelines on **AWS & Azure**
+- :robot: Exploring `Agentic AI` on Azure AI Foundry — multi-agent, self-healing operations platforms
 - :computer: Also passionate about `Web Development`, `Graphic Design`, and `UI/UX Design`
+- :medal_sports: **11th / 8,500+ teams** at IEEEXtreme 18.0, **6th / 90+ teams** at HaXtreme 3.0
 - :nerd_face: Always `learning new things` and exploring new technologies
 - :thinking: Currently open for `DevOps`, `Cloud Engineering`, or `Software Engineering` opportunities
-- :boom: Visit [MY LINKEDIN](https://www.linkedin.com/in/piyumal-ranasinghe-535240274/) | [MY GITHUB](https://github.com/PiyumalKK)
+- :boom: Visit [MY LINKEDIN](https://www.linkedin.com/in/piyumal1) | [MY GITHUB](https://github.com/PiyumalKK)
 
 ---
 
@@ -30,10 +32,30 @@
 
 <div align="center">
 
-| Certification | Issuer | Year |
+| Certification | Issuer | Status |
 |---|---|---|
-| Microsoft Certified: Azure Administrator Associate (AZ-104) | Microsoft | 2026 |
-| Microsoft Certified: Azure Fundamentals (AZ-900) | Microsoft | 2024 |
+| Microsoft Certified: Azure Administrator Associate (AZ-104) | Microsoft | ✅ Certified |
+| Microsoft Certified: Azure AI Apps & Agents Developer (AI-103) | Microsoft | ✅ Certified |
+| Microsoft Certified: Azure AI Engineer Associate (AI-102) | Microsoft | ✅ Certified |
+| Microsoft Certified: Azure Fundamentals (AZ-900) | Microsoft | ✅ Certified |
+| AWS Certified Solutions Architect – Associate (SAA-C03) | AWS | 🔄 In Progress |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Stack | Highlights |
+|---|---|---|
+| **DevOps Commander** — Multi-Agent Self-Healing Ops Platform | Azure AI Foundry, MCP, Terraform, Ansible, Azure Functions | 5-agent system across a multi-cloud ERP (Azure VMs + AWS EC2), 5 integrated MCP tools, RAG via Azure AI Search |
+| **HealthSync** — Healthcare Microservices Platform (IaC) | Azure, Terraform, Cosmos DB, PostgreSQL, Redis, Front Door | 21 Terraform-managed Azure resources, environment-gated apply/destroy workflow |
+| **ShopEase** — E-Commerce Microservices Platform (IaC) | Azure Container Apps, Terraform, Key Vault, Service Bus | 5-environment infra via reusable Terraform modules, typed-confirmation prod gates |
+| **Terraform Self-Service CI/CD Platform** | Terraform, GitHub Actions, Azure, AWS, Entra ID, IAM | Multi-cloud pipeline onboarding in ~15 lines of YAML |
+| **ZK Voting** — Privacy-Preserving Blockchain Voting *(Ongoing)* | Noir, Solidity, Hardhat, Next.js | Sybil-resistant anonymous voting using zero-knowledge proofs |
+| **Library Management System** | Spring Boot, React, Docker, Kubernetes (AKS), Jenkins | Terraform-provisioned AKS/ACR + CI/CD pipeline to Kubernetes |
 
 </div>
 
@@ -43,7 +65,7 @@
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white)](mailto:piyumalm912@gmail.com)&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white)](https://github.com/PiyumalKK)&nbsp;&nbsp;&nbsp;[![WhatsApp](https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white)](https://wa.me/+94774258908)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyumal-ranasinghe-535240274)&nbsp;&nbsp;&nbsp;[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100081943509867)&nbsp;&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/maleesha_piyumal_/)
+[![Gmail](https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white)](mailto:piyumalm912@gmail.com)&nbsp;&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white)](https://github.com/PiyumalKK)&nbsp;&nbsp;&nbsp;[![WhatsApp](https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white)](https://wa.me/+94774258908)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyumal1)&nbsp;&nbsp;&nbsp;[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100081943509867)&nbsp;&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/maleesha_piyumal_/)
 
 </div>
 
@@ -59,8 +81,10 @@
 <td align="center" width="90"><a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#"/><br>C#</a></td>
 <td align="center" width="90"><a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/><br>Java</a></td>
 <td align="center" width="90"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/><br>JS</a></td>
+<td align="center" width="90"><a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/><br>TS</a></td>
 <td align="center" width="90"><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/><br>Python</a></td>
 <td align="center" width="90"><a href="https://dart.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="45" height="45" alt="Dart"/><br>Dart</a></td>
+<td align="center" width="90"><a href="https://soliditylang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" width="45" height="45" alt="Solidity"/><br>Solidity</a></td>
 </tr></table>
 
 ---
@@ -75,10 +99,22 @@
 <td align="center" width="90"><a href="https://kubernetes.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="45" height="45" alt="Kubernetes"/><br>Kubernetes</a></td>
 <td align="center" width="90"><a href="https://github.com/features/actions"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="45" height="45" alt="GitHub Actions"/><br>GH Actions</a></td>
 <td align="center" width="90"><a href="https://about.gitlab.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" width="45" height="45" alt="GitLab"/><br>GitLab</a></td>
+<td align="center" width="90"><a href="https://www.jenkins.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="45" height="45" alt="Jenkins"/><br>Jenkins</a></td>
 <td align="center" width="90"><a href="https://www.ansible.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original-wordmark.svg" width="45" height="45" alt="Ansible"/><br>Ansible</a></td>
 <td align="center" width="90"><a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/><br>Linux</a></td>
 <td align="center" width="90"><a href="https://ubuntu.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" width="45" height="45" alt="Ubuntu"/><br>Ubuntu</a></td>
 </tr></table>
+
+---
+
+### 🤖 AI & Agentic AI
+
+<table align="center"><tr>
+<td align="center" width="90"><a href="https://azure.microsoft.com/en-us/products/ai-foundry"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" width="45" height="45" alt="Azure AI Foundry"/><br>AI Foundry</a></td>
+<td align="center" width="90"><a href="https://openai.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original.svg" width="45" height="45" alt="Azure OpenAI"/><br>Azure OpenAI</a></td>
+</tr></table>
+
+`Multi-Agent Systems` · `RAG` · `Azure AI Search` · `MCP` · `Generative AI` · `AI Vision` · `NLP`
 
 ---
 
@@ -90,6 +126,8 @@
 <td align="center" width="90"><a href="https://www.datadoghq.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datadog/datadog-original.svg" width="45" height="45" alt="Datadog"/><br>Datadog</a></td>
 </tr></table>
 
+`AWS CloudWatch` · `Fluent Bit` · `Loki` · `Azure Application Insights`
+
 ---
 
 ### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="50px"></picture> Frontend Development
@@ -99,6 +137,7 @@
 <td align="center" width="90"><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/><br>CSS3</a></td>
 <td align="center" width="90"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/><br>JS</a></td>
 <td align="center" width="90"><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/><br>React</a></td>
+<td align="center" width="90"><a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="45" height="45" alt="Next.js"/><br>Next.js</a></td>
 <td align="center" width="90"><a href="https://angular.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="45" height="45" alt="Angular"/><br>Angular</a></td>
 <td align="center" width="90"><a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" height="45" alt="Bootstrap"/><br>Bootstrap</a></td>
 <td align="center" width="90"><a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" alt="Tailwind"/><br>Tailwind</a></td>
@@ -115,6 +154,8 @@
 <td align="center" width="90"><a href="https://www.selenium.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="45" height="45" alt="Selenium"/><br>Selenium</a></td>
 <td align="center" width="90"><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/><br>MySQL</a></td>
 <td align="center" width="90"><a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/><br>MongoDB</a></td>
+<td align="center" width="90"><a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" alt="PostgreSQL"/><br>PostgreSQL</a></td>
+<td align="center" width="90"><a href="https://redis.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="45" height="45" alt="Redis"/><br>Redis</a></td>
 <td align="center" width="90"><a href="https://www.atlassian.com/software/jira"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" width="45" height="45" alt="Jira"/><br>Jira</a></td>
 <td align="center" width="90"><a href="https://www.atlassian.com/software/confluence"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original-wordmark.svg" width="45" height="45" alt="Confluence"/><br>Confluence</a></td>
 <td align="center" width="90"><a href="https://www.postman.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" height="45" alt="Postman"/><br>Postman</a></td>
@@ -132,6 +173,13 @@
 <td align="center" width="90"><a href="https://www.jetbrains.com/idea/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="45" height="45" alt="IntelliJ"/><br>IntelliJ</a></td>
 <td align="center" width="90"><a href="https://www.eclipse.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="45" height="45" alt="Eclipse"/><br>Eclipse</a></td>
 </tr></table>
+
+---
+
+## 🎖️ Achievements
+
+- 🥇 **IEEEXtreme 18.0** (24-hour global programming competition) — **11th out of 8,500+ teams worldwide**
+- 🥈 **HaXtreme 3.0** (inter-university coding competition) — **6th out of 90+ teams**
 
 ---
 
