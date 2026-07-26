@@ -20,9 +20,6 @@
 - :cloud: Passionate about `Cloud Engineering`, `DevOps`, `Platform Engineering`, `Agentic AI`, and `Microservices Architecture`
 - :hammer_and_wrench: Building scalable, cloud-native systems with full IaC & DevSecOps pipelines on **AWS & Azure**
 - :robot: Exploring `Agentic AI` on Azure AI Foundry — multi-agent, self-healing operations platforms
-- :computer: Also passionate about `Web Development`, `Graphic Design`, and `UI/UX Design`
-- :medal_sports: **11th / 8,500+ teams** at IEEEXtreme 18.0, **6th / 90+ teams** at HaXtreme 3.0
-- :nerd_face: Always `learning new things` and exploring new technologies
 - :thinking: Currently open for `DevOps`, `Cloud Engineering`, or `Software Engineering` opportunities
 - :boom: Visit [MY LINKEDIN](https://www.linkedin.com/in/piyumal1) | [MY GITHUB](https://github.com/PiyumalKK)
 
@@ -39,23 +36,6 @@
 | Microsoft Certified: Azure AI Engineer Associate (AI-102) | Microsoft | ✅ Certified |
 | Microsoft Certified: Azure Fundamentals (AZ-900) | Microsoft | ✅ Certified |
 | AWS Certified Solutions Architect – Associate (SAA-C03) | AWS | 🔄 In Progress |
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Stack | Highlights |
-|---|---|---|
-| **DevOps Commander** — Multi-Agent Self-Healing Ops Platform | Azure AI Foundry, MCP, Terraform, Ansible, Azure Functions | 5-agent system across a multi-cloud ERP (Azure VMs + AWS EC2), 5 integrated MCP tools, RAG via Azure AI Search |
-| **HealthSync** — Healthcare Microservices Platform (IaC) | Azure, Terraform, Cosmos DB, PostgreSQL, Redis, Front Door | 21 Terraform-managed Azure resources, environment-gated apply/destroy workflow |
-| **ShopEase** — E-Commerce Microservices Platform (IaC) | Azure Container Apps, Terraform, Key Vault, Service Bus | 5-environment infra via reusable Terraform modules, typed-confirmation prod gates |
-| **Terraform Self-Service CI/CD Platform** | Terraform, GitHub Actions, Azure, AWS, Entra ID, IAM | Multi-cloud pipeline onboarding in ~15 lines of YAML |
-| **ZK Voting** — Privacy-Preserving Blockchain Voting *(Ongoing)* | Noir, Solidity, Hardhat, Next.js | Sybil-resistant anonymous voting using zero-knowledge proofs |
-| **Library Management System** | Spring Boot, React, Docker, Kubernetes (AKS), Jenkins | Terraform-provisioned AKS/ACR + CI/CD pipeline to Kubernetes |
 
 </div>
 
@@ -173,13 +153,6 @@
 <td align="center" width="90"><a href="https://www.jetbrains.com/idea/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="45" height="45" alt="IntelliJ"/><br>IntelliJ</a></td>
 <td align="center" width="90"><a href="https://www.eclipse.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="45" height="45" alt="Eclipse"/><br>Eclipse</a></td>
 </tr></table>
-
----
-
-## 🎖️ Achievements
-
-- 🥇 **IEEEXtreme 18.0** (24-hour global programming competition) — **11th out of 8,500+ teams worldwide**
-- 🥈 **HaXtreme 3.0** (inter-university coding competition) — **6th out of 90+ teams**
 
 ---
 
