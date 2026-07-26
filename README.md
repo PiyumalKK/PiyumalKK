@@ -89,10 +89,12 @@
 
 ### 🤖 AI & Agentic AI
 
-<table align="center"><tr>
-<td align="center" width="90"><a href="https://azure.microsoft.com/en-us/products/ai-foundry"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" width="45" height="45" alt="Azure AI Foundry"/><br>AI Foundry</a></td>
-<td align="center" width="90"><a href="https://openai.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original.svg" width="45" height="45" alt="Azure OpenAI"/><br>Azure OpenAI</a></td>
-</tr></table>
+<div align="center">
+
+[![Azure AI Foundry](https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/en-us/products/ai-foundry)
+[![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+
+</div>
 
 `Multi-Agent Systems` · `RAG` · `Azure AI Search` · `MCP` · `Generative AI` · `AI Vision` · `NLP`
 
